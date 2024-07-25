@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rdvndkgz
 - 👀 I’m interested in photograpyh, software, video games and cars.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working at Detaysoft
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me = Just send to me a msg.
+- 📫 How to reach me rdvndkgz99@gmail.com
 
 <!---
 rdvndkgz/rdvndkgz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
